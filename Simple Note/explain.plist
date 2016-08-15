@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>color</key>
+		<integer>3</integer>
+		<key>data</key>
+		<string>2016-08-02</string>
+		<key>text</key>
+		<string># 简·记
+* 简·记是一款支持简单排版的记事应用
+* 除了排版，简记还可以用颜色来区分记事的类型
+* 当然，一些简单手势也是支持的哦，比如长按和滑动</string>
+	</dict>
+	<dict>
+		<key>color</key>
+		<integer>2</integer>
+		<key>data</key>
+		<string>2016-08-02</string>
+		<key>text</key>
+		<string>#举点🌰
+* 简·记是通过一些特殊符号来实现排版功能的，暂时能匹配的样式不多
+* 我觉得勉强够用✌️✌️
+* *比如这样*
+* **这样**
+* ~~还有这样~~
+##	这样
+###这样
+####这样
+#####这样
+等等等等</string>
+	</dict>
+	<dict>
+		<key>color</key>
+		<integer>1</integer>
+		<key>data</key>
+		<string>2016-08-02</string>
+		<key>text</key>
+		<string># 具体说明
+## 标题
+* 井➕文字为一级标题
+* 两个井➕文字为二级标题
+* 三个井➕文字为三级标题
+* 四个井➕文字为四级标题
+* 五个井➕文字为五级标题
+* 文字下面一行八个等号是一级标题
+* 文字下面八个减号是二级标题
+* **标题必须换行后才有效果！！**
+
+##项目符号
+
+* ✨➕空格➕文字就是项目符号~也就是前边那个小黑点
+
+##强调
+
+* ✨➕文字➕✨是细体文字
+* 两个✨➕文字➕两个✨是粗体文字
+* 两个波浪线➕文字➕两个波浪线是删除线文字（~~就是这样~~）
+
+##大概就是这些
+</string>
+	</dict>
+	<dict>
+		<key>color</key>
+		<integer>0</integer>
+		<key>data</key>
+		<string>2016-08-02</string>
+		<key>text</key>
+		<string>#PS
+* 右下角那三条线里藏着不可告人的秘密！！！
+* ~~一定不能看~~😱
+* 编辑时，左滑可以预览排版效果👉
+* 预览时，右滑可以进入编辑状态👈
+
+##感谢下载🙏
+
+</string>
+	</dict>
+</array>
+</plist>
